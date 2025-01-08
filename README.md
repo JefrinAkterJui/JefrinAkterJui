@@ -1,33 +1,24 @@
 ## Hi there 👋
-
 - 🔭 I’m currently working on:  
     Front-end Development | HTML | CSS | React | Tailwind CSS | JavaScript
-
 - 🌱 I’m currently learning: 
     Advanced React, API integration, and exploring freelance marketplaces like Fiverr, Upwork, and Freelancer.
-
 - 👯 I’m looking to collaborate on:  
     Web development projects focusing on modern UI/UX and scalable front-end solutions.
-
-- 🤔 I’m looking for help with:
+- 🤔 **I’m looking for help with:**
     Freelance opportunities and improving project management skills.
-
 - 💬 Ask me about: 
     HTML5, CSS3, React, Tailwind CSS, JavaScript, or anything related to front-end development.
-
 - 📫 How to reach me: 
   - 📧 Email: jefrin.jui.dev@gmail.com 
   - 💼 LinkedIn: [linkedin.com/in/jefrin-akter-jui-9a276a345/]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jefrin-akter-jui-9a276a345/))  
   - 🐦 Facebook: [facebook.com/profile.php?id=100080987453058]([https://twitter.com/your_handle](https://www.facebook.com/profile.php?id=100080987453058))  
   - 💻 GitHub: [github.com/JefrinAkterJui](https://github.com/JefrinAkterJui)
-
 - 😄 Pronouns: 
     She/Her
-
 - ⚡ Fun fact:
     I frequently debug my code while my cat tries to sit on my keyboard! 😼
-
-- ✨About Me:
+- ✨**About Me:**
     Hi, I’m Jefrin Akter Jui — a creative Front-end Developer with expertise in HTML, CSS, JavaScript, React, Redux, Tailwind CSS, Bootstrap, and Firebase. I specialize in building       
     responsive, user-friendly web applications focusing on clean UI/UX design. I leverage Firebase for seamless backend integration, including authentication, databases, and hosting.         Let's   bring your ideas to life with modern web solutions! 🚀
 
