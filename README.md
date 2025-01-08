@@ -1,19 +1,19 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on:  
-  Front-end Development | HTML | CSS | React | Tailwind CSS | JavaScript
+    Front-end Development | HTML | CSS | React | Tailwind CSS | JavaScript
 
 - 🌱 I’m currently learning: 
-  Advanced React, API integration, and exploring freelance marketplaces like Fiverr, Upwork, and Freelancer.
+    Advanced React, API integration, and exploring freelance marketplaces like Fiverr, Upwork, and Freelancer.
 
 - 👯 I’m looking to collaborate on:  
-  Web development projects focusing on modern UI/UX and scalable front-end solutions.
+    Web development projects focusing on modern UI/UX and scalable front-end solutions.
 
 - 🤔 I’m looking for help with:
-  Freelance opportunities and improving project management skills.
+    Freelance opportunities and improving project management skills.
 
 - 💬 Ask me about: 
-  HTML5, CSS3, React, Tailwind CSS, JavaScript, or anything related to front-end development.
+    HTML5, CSS3, React, Tailwind CSS, JavaScript, or anything related to front-end development.
 
 - 📫 How to reach me: 
   - 📧 Email: jefrin.jui.dev@gmail.com 
@@ -22,14 +22,14 @@
   - 💻 GitHub: [github.com/JefrinAkterJui](https://github.com/JefrinAkterJui)
 
 - 😄 Pronouns: 
-  She/Her
+    She/Her
 
 - ⚡ Fun fact:
-  I frequently debug my code while my cat tries to sit on my keyboard! 😼
+    I frequently debug my code while my cat tries to sit on my keyboard! 😼
 
 - ✨About Me:
-  Hi, I’m Jefrin Akter Jui — a creative Front-end Developer with expertise in HTML, CSS, JavaScript, React, Redux, Tailwind CSS, Bootstrap, and Firebase. I specialize in building       
-  responsive, user-friendly web applications focusing on clean UI/UX design. I leverage Firebase for seamless backend integration, including authentication, databases, and hosting. Let's   bring your ideas to life with modern web solutions! 🚀
+    Hi, I’m Jefrin Akter Jui — a creative Front-end Developer with expertise in HTML, CSS, JavaScript, React, Redux, Tailwind CSS, Bootstrap, and Firebase. I specialize in building       
+    responsive, user-friendly web applications focusing on clean UI/UX design. I leverage Firebase for seamless backend integration, including authentication, databases, and hosting.         Let's   bring your ideas to life with modern web solutions! 🚀
 
 
 ## 🌐 Socials:
