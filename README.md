@@ -1,13 +1,6 @@
 ## Hi there 👋
 - 🔭 **I’m currently working on:**  
     Front-end Development | HTML | CSS | React | Tailwind CSS | JavaScript
-- 👯 **I’m looking to collaborate on:**  
-    Web development projects focusing on modern UI/UX and scalable front-end solutions.
-- ⚡ **Fun fact:**
-    I frequently debug my code while my cat tries to sit on my keyboard! 😼
-- ✨**About Me:**
-    Hi, I’m Jefrin Akter Jui — a creative Front-end Developer with expertise in HTML, CSS, JavaScript, React, Redux, Tailwind CSS, Bootstrap, and Firebase. I specialize in building       
-    responsive, user-friendly web applications focusing on clean UI/UX design. I leverage Firebase for seamless backend integration, including authentication, databases, and hosting.         Let's   bring your ideas to life with modern web solutions! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100080987453058) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jefrin-akter-jui-9a276a345/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@JuisCreation) 
