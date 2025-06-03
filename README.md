@@ -1,48 +1,6 @@
-Jui
-jui_dev
-In a call
 
-Jui — Yesterday at 5:12 PM
-valo lagteche re
-kebol dekhtechi
-ranna korte hobe ajke
-Jui — Yesterday at 6:17 PM
-Mehefuj Ali — Yesterday at 9:14 PM
-Kire
-Ki koros
-Mehefuj Ali — Yesterday at 9:37 PM
-oi
-zoom
-a join korecheis?
-oiiiiiiiii...
-You missed a call from 
-Mehefuj Ali
- that lasted a few seconds. — Yesterday at 9:37 PM
-Mehefuj Ali — Yesterday at 10:04 PM
-oi
-kire
-bah
-valoi to
-Mehefuj Ali — Yesterday at 11:32 PM
-Image
-Mehefuj Ali — 12:44 AM
-kire
-tor current nay naki
-na ki holo
-...........
-Jui — 5:17 AM
-kalke khub ghum paitechilo tai ghumay gechilam
-good morning
-conseptual session er kothao mone chilo na
-dhur valo lage na
-😓
-Mehefuj Ali — 11:29 AM
-oi
-hello
-good morning
-Jui — 11:32 AM
-hu
-Mehefuj Ali — 11:33 AM
+
+
 <h1 align="center">Hi there, I'm Jui a Front-end & React Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
