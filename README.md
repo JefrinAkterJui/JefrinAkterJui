@@ -60,44 +60,6 @@ Hi there! I'm Jui, a dedicated Front-end Developer with a strong passion for cre
 
 ---
 
-<h2 align="center">⚡ Fun Fact ⚡</h2>
-
-<p align="center">
-  I find immense satisfaction in crafting pixel-perfect UIs and bringing static designs to life with elegant code and smooth animations. Sometimes I even dream in CSS! 😄
-</p>
-
----
-
-<h2 align="center">✨ Featured Projects ✨</h2>
-
-<details open style="margin-bottom: 10px; background-color: #161B22; padding: 15px; border-radius: 8px; border: 1px solid #30363D;">
-  <summary style="font-weight: bold; cursor: pointer; color: #FFA902;">Project Title 1 (e.g., E-commerce UI)</summary>
-  <div style="padding-top: 10px;">
-  Briefly describe your project here. What problem does it solve? What makes it unique?
-  <ul>
-    <li><strong>Key Features:</strong> List 2-3 standout features.</li>
-    <li><strong>Tech Stack:</strong> React, Redux, Tailwind CSS (example)</li>
-    <li>🔗 <strong>Live Demo:</strong> [Link to Your Deployed Demo]</li>
-    <li>🔗 <strong>Repository:</strong> [Link to its GitHub Repo]</li>
-  </ul>
-  </div>
-</details>
-
-<details style="margin-bottom: 10px; background-color: #161B22; padding: 15px; border-radius: 8px; border: 1px solid #30363D;">
-  <summary style="font-weight: bold; cursor: pointer; color: #FFA902;">Project Title 2 (e.g., Portfolio Website v2)</summary>
-  <div style="padding-top: 10px;">
-  Briefly describe your project here. What unique problem does it solve? What's its core innovation?
-  <ul>
-    <li><strong>Key Features:</strong> Highlight 2-3 standout functionalities.</li>
-    <li><strong>Tech Stack:</strong> Next.js, Framer Motion (example)</li>
-    <li>🔗 <strong>Live Demo:</strong> [Link to Your Deployed Demo]</li>
-    <li>🔗 <strong>Repository:</strong> [Link to its GitHub Repo]</li>
-  </ul>
-  </div>
-</details>
-
----
-
 <h2 align="center">💻 Tech Stack 💻</h2>
 
 <p align="center">My toolbox for building and designing applications:</p>
@@ -180,7 +142,7 @@ Hi there! I'm Jui, a dedicated Front-end Developer with a strong passion for cre
 
 <p align="center">
   <a href="mailto:jefrin.jui.dev@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="YOUR_LINKEDIN_PROFILE_URL_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="jefrinakter-jui" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 
 <p align="center" style="font-style: italic;">
