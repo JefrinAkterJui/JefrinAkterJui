@@ -44,7 +44,7 @@ I'm a firm believer in lifelong learning and am currently sharpening my skills i
   </a>
   &nbsp;&nbsp;
   <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app/?user=JuiArwaRumman&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=JefrinAkterJui&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
