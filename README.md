@@ -36,7 +36,8 @@ I'm a firm believer in lifelong learning and am currently sharpening my skills i
 # GitHub Stats:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JefrinAkterJui&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="JuiArwaRumman's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=JefrinAkterJui&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=60" alt="JefrinAkterJui's GitHub stats" />
+
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
