@@ -8,7 +8,30 @@ I focus on delivering **clean architecture**, **dynamic dashboards**, and **API-
 Let’s connect and build something **extraordinary** together. 🌟
 
 ## Socials 💬
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jui_dev) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jefrinakterjui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jefrinakterjui@gmail.com) 
+
+<a href="https://www.linkedin.com/in/jui-arwa-rumman">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp; 
+<a href="https://www.facebook.com/jefrinakterjui">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+&nbsp; 
+<a href="https://discord.com/users/jui_dev">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+&nbsp; 
+<a href="mailto:juiarwarumman@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp; 
+<a href="https://www.youtube.com/@JuisCreation">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/Jui_Dev">
+  <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 ## Tech Stack 🛠️
 
