@@ -76,6 +76,8 @@ I'm a firm believer in lifelong learning and am currently sharpening my skills i
   </a>
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JefrinAkterJui&bg_color=11004d&color=9e4c98&line=f066e7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 [![](https://visitcount.itsvg.in/api?id=JefrinAkterJui&icon=0&color=0)](https://visitcount.itsvg.in)
 
