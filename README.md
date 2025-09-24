@@ -63,16 +63,20 @@ I'm a firm believer in lifelong learning and am currently sharpening my skills i
 ## GitHub Stats:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=JefrinAkterJui&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=60" alt="JefrinAkterJui's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=JefrinAkterJui&show_icons=true&title_color=F066E7&icon_color=F066E7&text_color=ffffff&bg_color=00000000&hide_border=true&count_private=true" alt="JefrinAkterJui's GitHub stats" />
+
 
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefrinAkterJui&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefrinAkterJui&layout=compact&title_color=F066E7&text_color=ffffff&icon_color=F066E7&bg_color=00000000&hide_border=true" alt="Top Languages" />
+
   </a>
   &nbsp;&nbsp;
   <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com/?user=JefrinAkterJui&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=JefrinAkterJui&hide_border=true&background=00000000&ring=F066E7&fire=F066E7&currStreakNum=F066E7&sideNums=FFFFFF&currStreakLabel=F066E7&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+
+
   </a>
 </p>
 
