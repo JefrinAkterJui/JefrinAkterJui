@@ -9,7 +9,7 @@ Let’s connect and build something **extraordinary** together. 🌟
 
 ## Socials 💬
 
-<a href="https://www.linkedin.com/in/jui-arwa-rumman">
+<a href="https://www.linkedin.com/in/jefrin-aktar-jui">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp; 
