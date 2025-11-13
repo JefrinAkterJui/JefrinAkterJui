@@ -1,13 +1,9 @@
 
-##  About Me 🚀
+##  About Me
 
-Hello, I'm **Jui** — a dedicated **Full Stack Web Developer** specializing in the **MERN Stack** (**MongoDB**, **Express.js**, **React.js**, **Node.js**). I craft **high-performance**, **scalable**, and **fully customized** web applications that solve **real-world problems**.
+Hi, I’m Jefrin Akter Jui — a results-driven Full-Stack Developer specializing in building fast, scalable, and modern web applications using React/Next.js on the frontend and Node/Express with MongoDB/PostgreSQL on the backend. I craft clean UI, robust APIs, and deploy production-ready apps with best practices in performance, security, and SEO.
 
-I focus on delivering **clean architecture**, **dynamic dashboards**, and **API-driven platforms** — all while maintaining **strong communication** and **collaboration** throughout the development process.
-
-Let’s connect and build something **extraordinary** together. 🌟
-
-## Socials 💬
+## Socials
 
 <a href="https://www.linkedin.com/in/jefrin-aktar-jui">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,7 +37,7 @@ Let’s connect and build something **extraordinary** together. 🌟
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
 
 
-## Current Focus & Learning Journey 🎯
+## Current Focus & Learning Journey 
 I'm a firm believer in lifelong learning and am currently sharpening my skills in several exciting areas:
 
 <table>
