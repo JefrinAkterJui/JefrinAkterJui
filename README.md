@@ -56,25 +56,10 @@ I'm a firm believer in lifelong learning and am currently sharpening my skills i
   </tr>
 </table>
 
-## GitHub Stats:
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=JefrinAkterJui&show_icons=true&title_color=F066E7&icon_color=F066E7&text_color=ffffff&bg_color=00000000&hide_border=true&count_private=true" alt="JefrinAkterJui's GitHub stats" />
 
 
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefrinAkterJui&layout=compact&title_color=F066E7&text_color=ffffff&icon_color=F066E7&bg_color=00000000&hide_border=true" alt="Top Languages" />
-
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=JefrinAkterJui&hide_border=true&background=00000000&ring=F066E7&fire=F066E7&currStreakNum=F066E7&sideNums=FFFFFF&currStreakLabel=F066E7&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 
 
-  </a>
-</p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JefrinAkterJui&bg_color=11004d&color=9e4c98&line=f066e7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
