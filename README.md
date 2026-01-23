@@ -1,7 +1,7 @@
 
 ##  About Me
 
-Hi, I’m Jefrin Akter Jui — a results-driven Full-Stack Developer specializing in building fast, scalable, and modern web applications using React/Next.js on the frontend and Node/Express with MongoDB/PostgreSQL on the backend. I craft clean UI, robust APIs, and deploy production-ready apps with best practices in performance, security, and SEO.
+Hi, I’m Jefrin Akter Jui, a results-driven Full-Stack Developer specializing in building fast, scalable, and modern web applications using React/Next.js on the frontend and Node/Express with MongoDB/PostgreSQL on the backend. I craft clean UI, robust APIs, and deploy production-ready apps with best practices in performance, security, and SEO.
 
 ## Socials
 
